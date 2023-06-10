@@ -15,7 +15,7 @@ Languages  :  Python, Js, Batch
 ```
 
 ```json
-Bon que en batch...
+;)
 ```
 
 <a href="https://discord.gg/xehtBNwd4w" target="_blank"><img src="https://github.com/KamiHateOmg/README.md/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>

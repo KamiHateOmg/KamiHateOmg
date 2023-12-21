@@ -12,7 +12,7 @@ Languages  :  Python, Js, Batch
 ```
 
 ```json
-;)
+PLS ADD A STAR PLEASE
 ```
 
 <a href="https://discord.gg/xehtBNwd4w" target="_blank"><img src="https://github.com/KamiHateOmg/README.md/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>

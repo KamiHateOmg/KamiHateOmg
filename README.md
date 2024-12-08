@@ -15,4 +15,4 @@ Languages  :  Python, Js, Batch
 Knowlegde is power.
 ```
 
-<a href="https://discord.gg/xehtBNwd4w" target="_blank"><img src="https://github.com/KamiHateOmg/README.md/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+<a href="http://someth1ng.net/bio" target="_blank"><img src="https://github.com/KamiHateOmg/README.md/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>

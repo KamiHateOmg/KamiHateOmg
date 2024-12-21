@@ -5,10 +5,9 @@ print(f'Follow {KamiHateOmg} on Github')
 ```
 
 ```python
-   Python  :  python 3.9.13
+   Python  :  python 3.11
 Languages  :  Python, Js, Batch
-  Discord  :  1104133064990404678
-       YT  :  @KamiHate.
+  Discord  :  1195405120398180494
 ```
 
 ```json
